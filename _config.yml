@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Song, Yeo Jin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ratko.jpeg"
   bio              : "Medical AI를 공부하는 학부생입니다."
   location         : "Seoul, South Korea"
   email            :
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/YeoJins"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
