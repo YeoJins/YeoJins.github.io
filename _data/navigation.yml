@@ -1,19 +1,7 @@
 main:
-  #- title: "Home"
-  #  url: "/"
+  - title: "Home"
+    url: "/"
   - title: "Introduce"
     url: /about/
   - title: "Category"
     url: "/categories/"
-  - title: "Tags"
-    url: /tags/
-
-sidebar-category:
-  - title: "카테고리"
-    children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
