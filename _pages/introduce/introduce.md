@@ -1,21 +1,27 @@
 ---
-layout: page
-title: "Hello!"
+layout: single
+title: "Portfolio"
 permalink: /about/
 ---
 
+Hi there, my name is Song Yeojin. I'm a senior student at Ewha Womans University, interested in medical computer vision.
 
-안녕하세요! 저는 Song Yeojin입니다. 저는 Medical computer vision을 공부하는 대학생입니다.
+- Currently living in: Seoul, Republic of Korea
+- Email: [syj1031@ewhain.net](mailto:syj1031@ewhain.net)
 
-- 위치: Republic of Korea
-- 이메일: [syj1031@ewhain.net](mailto:syj1031@ewhain.net)
+## Research Interests
 
-## 경력 및 관심사
+- Image Segmentation
+- Object Detection
+- 3D Vision
+- Generative model
 
-- 관심 분야: 컴퓨터 비전, 인공지능, 의료 영상 분석
-- 현재 학습 중: C++, Python, 딥러닝
+## Projects & Experiences
 
-## 기타 정보
+- Gait Recognition with Deep Learning, PAI Lab, Ewha Womans University, Dec. 2023 to Jul. 2024
+- Google Developer Study Clubs(**GDSC**) Ewha member, Sep. 2022 to Mar. 2023
 
-- 저는 다양한 기술을 배우고 적용하는 것을 즐깁니다. 또한, 블로그를 통해 제가 배운 것을 공유하고 싶습니다.
+## Etc
+
+- JLPT N2
 
