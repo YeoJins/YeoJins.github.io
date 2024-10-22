@@ -1,29 +1,25 @@
 ---
-title:  "나의 첫 포스트"
-excerpt: "hello"
+title:  "계획"
+excerpt: "딥러닝 기초를 쌓기 위한 계획"
 
 categories:
   - dl
-tags:
-  - [Blog, jekyll, Github, Git]
 
 toc: true
 toc_sticky: true
-toc_label: "label"
+toc_label: "Contents"
  
-date: 2024-08-12
-last_modified_at: 2024-08-18
+date: 2024-08-28
+last_modified_at: 2024-08-28
 ---
 
-# 마크다운 문법 적용
-여기서부터 본문  
-코드블럭도 되나?
-```python
-print("hello world!")
-```
+# Study Plan
 
-## 들여쓰기
-테스트중
+딥러닝 공부를 하기 위해 필요한 코드들 & 시간이 된다면 논문을 정리해 보려고 한다.  
+기본기를 쌓자...
 
-# 새로운 제목
-이건 새로운 제목
+|Title|contents|category|done|
+|---|-----|---|---|
+|Transformer|Attention & Transformer 구현|**code**|x|
+|Deep Unsupervised Learning using Nonequilibrium Thermodynamics|diffusion 개념 제시한 기초 논문|**paper**|x|
+|Denoising Diffusion Probabilistic Models|DDPM 논문|**paper**|x|
